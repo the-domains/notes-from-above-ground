@@ -1,5 +1,6 @@
-layout_spectrum: 0.5537175
 typography_spectrum: 0.02556969
+content_rating:
+  adult: false
 color:
   saturation: 0.4307198
   lightness: 0.8979006
@@ -11,4 +12,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.5537175
+author:
+  name: David Brotnov
+  email: dvdbrotnov@gmail.com
 name: 'Notes from Above Ground '
